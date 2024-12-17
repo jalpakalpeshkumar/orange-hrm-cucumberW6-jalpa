@@ -1,0 +1,28 @@
+2024-12-17 22:12:530 INFO  LoginPage :42 - Enter User Name: Admin
+2024-12-17 22:12:14 INFO  LoginPage :52 - Enter Password: admin123
+2024-12-17 22:12:322 INFO  LoginPage :47 - Clicking on Login Button: [[ChromeDriver: chrome on windows (d109995933f3f10aa42320d623af570b)] -> xpath: //button[@type='submit']]
+2024-12-17 22:12:832 INFO  DashboardPage :36 - Verifying Dashboard Page: [[ChromeDriver: chrome on windows (d109995933f3f10aa42320d623af570b)] -> xpath: //div[@class='oxd-topbar-header']/div[1]/span[1]/h6[1]]
+2024-12-17 22:12:65 INFO  LoginPage :42 - Enter User Name: Admin
+2024-12-17 22:12:680 INFO  LoginPage :52 - Enter Password: admin123
+2024-12-17 22:12:976 INFO  LoginPage :47 - Clicking on Login Button: [[ChromeDriver: chrome on windows (0cb1ce013973111f0e2c8d0aa1ab6e47)] -> xpath: //button[@type='submit']]
+2024-12-17 22:12:254 INFO  DashboardPage :41 - Verifying Orange HRM Logo: [[ChromeDriver: chrome on windows (0cb1ce013973111f0e2c8d0aa1ab6e47)] -> xpath: //img[@alt='client brand banner']]
+2024-12-17 22:12:416 INFO  LoginPage :42 - Enter User Name: Admin
+2024-12-17 22:12:980 INFO  LoginPage :52 - Enter Password: admin123
+2024-12-17 22:12:285 INFO  LoginPage :47 - Clicking on Login Button: [[ChromeDriver: chrome on windows (a747b9bd9c714bfd0a8a1d5dc9b649ff)] -> xpath: //button[@type='submit']]
+2024-12-17 22:12:378 INFO  HomePage :38 - Clicking on Admin link : [[ChromeDriver: chrome on windows (a747b9bd9c714bfd0a8a1d5dc9b649ff)] -> xpath: //li[1]//a[1]//span[1]]
+2024-12-17 22:12:788 INFO  ViewSystemUsersPage :113 - Verifying System User Text: [[ChromeDriver: chrome on windows (a747b9bd9c714bfd0a8a1d5dc9b649ff)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2024-12-17 22:12:858 INFO  ViewSystemUsersPage :118 - Clicking on Add button: [[ChromeDriver: chrome on windows (a747b9bd9c714bfd0a8a1d5dc9b649ff)] -> xpath: //button[@class='oxd-button oxd-button--medium oxd-button--secondary']]
+2024-12-17 22:12:575 INFO  ViewSystemUsersPage :123 - Verifying User added text: Add User
+2024-12-17 22:12:605 INFO  AddUserPage :24 - Clicking on UserRole drop-down : [[ChromeDriver: chrome on windows (a747b9bd9c714bfd0a8a1d5dc9b649ff)] -> xpath: (//div[@class = 'oxd-select-wrapper'])[1]]
+2024-12-17 22:12:845 INFO  AddUserPage :29 - Clicking on Admin option in UserRole drop-down : [[ChromeDriver: chrome on windows (a747b9bd9c714bfd0a8a1d5dc9b649ff)] -> xpath: //span[contains(text(),'Admin')]]
+2024-12-17 22:12:738 INFO  LoginPage :42 - Enter User Name: Admin
+2024-12-17 22:12:251 INFO  LoginPage :52 - Enter Password: admin123
+2024-12-17 22:12:537 INFO  LoginPage :47 - Clicking on Login Button: [[ChromeDriver: chrome on windows (17f8ae1a15fc8d3d96aac2bbff5d481b)] -> xpath: //button[@type='submit']]
+2024-12-17 22:12:750 INFO  HomePage :38 - Clicking on Admin link : [[ChromeDriver: chrome on windows (17f8ae1a15fc8d3d96aac2bbff5d481b)] -> xpath: //li[1]//a[1]//span[1]]
+2024-12-17 22:12:83 INFO  ViewSystemUsersPage :113 - Verifying System User Text: [[ChromeDriver: chrome on windows (17f8ae1a15fc8d3d96aac2bbff5d481b)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2024-12-17 22:12:408 INFO  ViewSystemUsersPage :172 - Enter jenny1234 to User Name field : [[ChromeDriver: chrome on windows (17f8ae1a15fc8d3d96aac2bbff5d481b)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2024-12-17 22:12:446 INFO  ViewSystemUsersPage :176 - Clicking on UserRole drop-down : [[ChromeDriver: chrome on windows (17f8ae1a15fc8d3d96aac2bbff5d481b)] -> xpath: //div[@class='oxd-table-filter-area']//div[2]//div[1]//div[2]//div[1]//div[1]//div[1]]
+2024-12-17 22:12:604 INFO  ViewSystemUsersPage :181 - Clicking on Admin option in UserRole drop-down : [[ChromeDriver: chrome on windows (17f8ae1a15fc8d3d96aac2bbff5d481b)] -> xpath: //span[contains(text(),'Admin')]]
+2024-12-17 22:12:907 INFO  ViewSystemUsersPage :192 - Clicking on Status drop-down : [[ChromeDriver: chrome on windows (17f8ae1a15fc8d3d96aac2bbff5d481b)] -> xpath: (//i)[13]]
+2024-12-17 22:12:92 INFO  ViewSystemUsersPage :197 - Clicking on Disable option in Status drop-down : [[ChromeDriver: chrome on windows (17f8ae1a15fc8d3d96aac2bbff5d481b)] -> xpath: //span[normalize-space()='Disabled']]
+2024-12-17 22:12:242 INFO  ViewSystemUsersPage :207 - Clicking on Search button : [[ChromeDriver: chrome on windows (17f8ae1a15fc8d3d96aac2bbff5d481b)] -> xpath: //button[normalize-space()='Search']]
